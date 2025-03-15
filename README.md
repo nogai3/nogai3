@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @nogai3
-- 👀 I’m interested in gamedevelopment, and web-site development
-- 🌱 I’m currently learning HTML, CSS, JS, Python
-- 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me discord: nogai33, telegram: nogai3, email: thebrianmaps142@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: 50% of the assets in my game GlackuS (1) are taken from my last game Five Night`s at Glackus
+- I do amazing thing in @Java, i like creating video-games!
+- And want work at @Mojang in Sweden-Stockholm
