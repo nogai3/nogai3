@@ -5,8 +5,8 @@
 
 # 🛠️ Languages & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ---
 
-# My statistics
+# 📊 My statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nogai3&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogai3&layout=compact&theme=github_dark&hide=glsl)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nogai3&theme=github-dark)
